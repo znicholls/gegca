@@ -18,3 +18,8 @@ of rst and use slightly different categories.
 -->
 
 <!-- towncrier release notes start -->
+
+## gegca v0.1.1 (2024-06-26)
+
+
+No significant changes.
