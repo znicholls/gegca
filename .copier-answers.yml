@@ -1,0 +1,15 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: v0.6.2
+_src_path: ../../repos/copier-core-python-repository
+email: zebedee.nicholls@climate-energy-college.org
+initial_setup: true
+name: Zebedee Nicholls
+notebook_dependencies: true
+pandas_doctests: true
+plot_dependencies: true
+project_description_short: Global-mean climate assessment of global emissions scenarios.
+project_name_human: Global Emissions Global Climate Assessment
+project_name_pip: gegca
+project_name_python: gegca
+project_url: https://github.com/znicholls/gegca
+track_lock_file: false
