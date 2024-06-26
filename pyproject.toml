@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "gegca"
-version = "0.1.2"
+version = "0.1.3a0"
 description = "Global-mean climate assessment of global emissions scenarios."
 authors = ["Zebedee Nicholls <zebedee.nicholls@climate-energy-college.org>"]
 readme = "README.md"
