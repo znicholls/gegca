@@ -19,6 +19,14 @@ of rst and use slightly different categories.
 
 <!-- towncrier release notes start -->
 
+## gegca v0.1.3 (2024-07-18)
+
+
+### Trivial/Internal Changes
+
+- [#1](https://github.com/znicholls/gegca/pulls/1)
+
+
 ## gegca v0.1.2 (2024-06-26)
 
 
